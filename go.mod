@@ -10,7 +10,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.4.0
 	github.com/stretchr/testify v1.7.4
-	github.com/suborbital/atmo v0.4.7
+	github.com/suborbital/atmo v0.5.1
 	golang.org/x/mod v0.5.1
 	gopkg.in/yaml.v2 v2.4.0
 )
